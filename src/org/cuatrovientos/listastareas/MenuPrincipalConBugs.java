@@ -57,6 +57,7 @@ public class MenuPrincipalConBugs {
 				break;
 			case 3:
 				listaDeTareas.clear();
+				System.out.println("Se va a proceder a borrar la lista");
 				System.out.println("Borrada la lista de tareas...");
 				break;
 			case 4:
